@@ -1,6 +1,9 @@
  - Stock Market Basics:
   - https://www.youtube.com/playlist?list=PL3cFiqLUjlYPGlWWszesTtdI3v0tcLe5E
 
+TECHNICAL INDICATORS IN PANDAS
+https://reposhub.com/python/deep-learning/twopirllc-pandas-ta.html
+
 
  - Technical Analysis
   - https://www.youtube.com/watch?v=mtxwzDAEdJE&list=PLU8qsuFQ7QT4hk_XiAlT-Ou2PVIeBI1nT

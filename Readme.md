@@ -1,8 +1,14 @@
  - Stock Market Basics:
   - https://www.youtube.com/playlist?list=PL3cFiqLUjlYPGlWWszesTtdI3v0tcLe5E
 
-TECHNICAL INDICATORS IN PANDAS
-https://reposhub.com/python/deep-learning/twopirllc-pandas-ta.html
+ - TECHNICAL INDICATORS IN PANDAS
+   -  https://reposhub.com/python/deep-learning/twopirllc-pandas-ta.html
+   - Nice Documentation: https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html#volatility-indicators
+
+ - Get Historical Data in Python:
+  -  https://nsepy.xyz/
+  -  https://nsetools.readthedocs.io/en/latest/
+  -  https://github.com/swapniljariwala/nsepy
 
 
  - Technical Analysis

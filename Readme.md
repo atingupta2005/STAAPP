@@ -10,7 +10,11 @@
   -  https://nsetools.readthedocs.io/en/latest/
   -  https://github.com/swapniljariwala/nsepy
 
-
+ - Trading: Calculate Technical Analysis Indicators with Pandas
+   - https://towardsdatascience.com/trading-technical-analysis-with-pandas-43e737a17861
+  
+ 
+ 
  - Technical Analysis
   - https://www.youtube.com/watch?v=mtxwzDAEdJE&list=PLU8qsuFQ7QT4hk_XiAlT-Ou2PVIeBI1nT
 
